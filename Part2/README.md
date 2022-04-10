@@ -1,7 +1,7 @@
 # Logical qubit entaglement and error detection
 This work is greatly inspired by the article [Entangling logical qubits with lattice surgery](https://www.nature.com/articles/s41586-020-03079-6), preprint available [here](https://arxiv.org/abs/2006.03071) by A.Erhard, H.P.Nautrup, M.Meth, L.Postler, R.Stricker, M.Ringbauer, P.Schindler, H.J.Briegel, R.Blatt, N.Friis and T.Monz.
 
-In this notebook, I reproduce some results of the great work of the original authors to gain insight on the limitations and challenges linked to encoding logical information into qubits.
+In this notebook, I reproduce some results of the great work of the original authors to gain insight on the limitations and challenges linked to encoding logical information into qubits. The goal is, using physical qubits prone to error, to generate a state that will still be usable as a qubit, but with additionnal capabilities such as error detection.
 
 ## Usage
 The notebook can be read with its outputs as is.
